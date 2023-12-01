@@ -48,22 +48,6 @@ body { background-color:#F1F1F1; padding:0;  margin: 0; }
 #container_78d6203e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_78d6203e_padding { margin: 10px; display: block;  }
 #placeh_7a5ef65 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:557px;  }
-#container_2a64b3ae { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1024px; background:none;  }
-#container_2a64b3ae_padding { margin: 10px; display: block;  }
-#container_f13da55 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:844px; background-color:#0E3B65; background: linear-gradient(to right, #000115, #0E3B65);  }
-#container_f13da55_padding { margin: 10px; display: block;  }
-.textstyle9 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold; line-height: 1.2;  }
-.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; font-weight:bold; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
-#container_250423ca { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
-#container_250423ca_padding { margin: 5px; display: block;  }
-#container_56357dc7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:459px; background:none;  }
-#container_56357dc7_padding { margin: 10px; display: block;  }
-.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; line-height: 1.2;  }
-.textstyle12 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-.textstyle13 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
-.textstyle14 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
-.textstyle15 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-@media only screen and (max-width: 800px)
-{
-		#container_56357dc7 { width:100%;  }
-}
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
+.textstyle10 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
+.textstyle11 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
