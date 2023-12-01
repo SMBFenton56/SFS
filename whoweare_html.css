@@ -48,7 +48,7 @@ body { background-color:#0E3B65; background: linear-gradient(to right, #000115, 
 #container_6d1c74c3 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
 #container_fb36e63 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
 .textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; line-height: 1.2;  }
-.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-style:italic; line-height: 1.2;  }
+.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-style:italic; font-weight:bold; line-height: 1.2;  }
 .ulstyle1 { margin:0; font-size: 12pt; color:#FFFFFF;  }
 .textstyle12 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
 .textstyle13 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
