@@ -18,26 +18,31 @@ html, body { min-height: 100% }
 		.menu_12dc9f48_mainMenuEntry:hover span {	color:#FFFFFF !important; }
 		#menu_12dc9f48 .mobileEntry { display: none; } 
 		#menu_12dc9f48 .normalEntry { display: block; } 
+		#menu_12dc9f48_menualignmentwrapper{ width:498px; left: calc(50% - 249px);  } 
 		@media only screen and (max-width:550px) { 
 			#menu_12dc9f48 .mobileEntry { display: block; } 
 			#menu_12dc9f48 .normalEntry { display: none; } 
+			#menu_12dc9f48_menualignmentwrapper { width:37px; left: calc(50% - 18px);  } 
 		}
+#table_6385801d th {  } 
+#table_6385801d td {  } 
 body { background-color:#0E3B65; background: linear-gradient(to right, #000115, #0E3B65); background-repeat: no-repeat; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #img_3c70b732 { vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:55%; background:none; height:auto;  }
 .textstyle2 { text-align:left; }
 .textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#menu_12dc9f48 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:35%; height:38px; text-align:left; background-color:#0E3B65; background: linear-gradient(to bottom,#0E3B65, #072037 50%, #061A2D 50%, #041423); border: 1px solid #FFFFFF;  }
+#menu_12dc9f48 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:35%; height:35px; text-align:left; background:none; border: 1px solid #FFFFFF;  }
+#menu_12dc9f48_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
-.menustyle1 { position:absolute; width:37px; height:38px; left:10px;  }
+.menustyle1 { position:absolute; width:37px; height:35px; left:0px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
 .textstyle4 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
-.menustyle2 { position:absolute; width:109px; height:38px; left:10px;  }
+.menustyle2 { position:absolute; width:109px; height:35px; left:0px;  }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
 .textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
-.menustyle3 { position:absolute; width:147px; height:38px; left:119px;  }
-.menustyle4 { position:absolute; width:145px; height:38px; left:266px;  }
-.menustyle5 { position:absolute; width:97px; height:38px; left:411px;  }
+.menustyle3 { position:absolute; width:147px; height:35px; left:109px;  }
+.menustyle4 { position:absolute; width:145px; height:35px; left:256px;  }
+.menustyle5 { position:absolute; width:97px; height:35px; left:401px;  }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 #placeh_91ac625 { vertical-align: top; position:relative; display: inline-block; width:90%; min-height:50px; background-color:#0E3B65; background: linear-gradient(to bottom, #000115, #0E3B65);  }
 #container_4473df6d { vertical-align: top; position:relative; display: inline-block; width:90%; background:none;  }
@@ -51,6 +56,15 @@ body { background-color:#0E3B65; background: linear-gradient(to right, #000115, 
 .textstyle9 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; line-height: 1.2;  }
 .textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#1F1F1F; line-height: 1.2; text-shadow: 2px 2px 2px #C0C0C0;  }
 .textstyle11 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#table_6385801d { vertical-align: bottom; position:relative; display: inline-table; width:60%; background:none; table-layout: fixed;  }
+#cell_40c8368a {  }
+#img_445fda0d { vertical-align: bottom; position:relative; display: inline-block; width:14%; background:none; height:auto;  }
+.textstyle12 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle13 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#cell_50cb666a {  }
+#img_5cbd2978 { vertical-align: bottom; position:relative; display: inline-block; width:15%; background:none; height:auto;  }
+#cell_b749fb5 {  }
+#img_53797471 { vertical-align: bottom; position:relative; display: inline-block; width:16%; background:none; height:auto;  }
 @media only screen and (max-width: 800px)
 {
 		#container_4c93732e { width:100%;  }
